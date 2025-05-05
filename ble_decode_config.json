@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "manufacturers": [
     { "id": "0x004C", "name": "Apple" },
     { "id": "0x038F", "name": "Xiaomi" },
