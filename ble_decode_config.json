@@ -1,7 +1,8 @@
 {
-  "version": 3,
+  "version": 4,
   "manufacturers": [
     { "id": "0x004C", "name": "Apple" },
+    { "id": "0xC5C5", "name": "Samsung" },
     { "id": "0x004с", "name": "Apple" },
     { "id": "0x038F", "name": "Xiaomi" },
     { "id": "0x01D7", "name": "Bose" },
